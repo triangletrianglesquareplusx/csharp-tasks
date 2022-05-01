@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RITBMb106S5XjSWv27/w4+Csm/xoc7LYBrH+p1+3w3Fayz5Y/36dVc28XwDO18ufobiugddXWWYFgVG5ZkuJ1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Preslav\\Downloads\\task1\\task1\\task1\\task1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Preslav\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

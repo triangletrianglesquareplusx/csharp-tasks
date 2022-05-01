@@ -1,0 +1,14 @@
+C:\Users\Preslav\Downloads\task1\task1\task2\bin\Debug\netcoreapp3.1\task2.exe
+C:\Users\Preslav\Downloads\task1\task1\task2\bin\Debug\netcoreapp3.1\task2.deps.json
+C:\Users\Preslav\Downloads\task1\task1\task2\bin\Debug\netcoreapp3.1\task2.runtimeconfig.json
+C:\Users\Preslav\Downloads\task1\task1\task2\bin\Debug\netcoreapp3.1\task2.runtimeconfig.dev.json
+C:\Users\Preslav\Downloads\task1\task1\task2\bin\Debug\netcoreapp3.1\task2.dll
+C:\Users\Preslav\Downloads\task1\task1\task2\bin\Debug\netcoreapp3.1\task2.pdb
+C:\Users\Preslav\Downloads\task1\task1\task2\obj\Debug\netcoreapp3.1\task2.csproj.AssemblyReference.cache
+C:\Users\Preslav\Downloads\task1\task1\task2\obj\Debug\netcoreapp3.1\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Preslav\Downloads\task1\task1\task2\obj\Debug\netcoreapp3.1\task2.AssemblyInfoInputs.cache
+C:\Users\Preslav\Downloads\task1\task1\task2\obj\Debug\netcoreapp3.1\task2.AssemblyInfo.cs
+C:\Users\Preslav\Downloads\task1\task1\task2\obj\Debug\netcoreapp3.1\task2.csproj.CoreCompileInputs.cache
+C:\Users\Preslav\Downloads\task1\task1\task2\obj\Debug\netcoreapp3.1\task2.dll
+C:\Users\Preslav\Downloads\task1\task1\task2\obj\Debug\netcoreapp3.1\task2.pdb
+C:\Users\Preslav\Downloads\task1\task1\task2\obj\Debug\netcoreapp3.1\task2.genruntimeconfig.cache
